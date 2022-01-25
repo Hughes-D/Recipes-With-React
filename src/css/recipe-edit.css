@@ -45,7 +45,7 @@
 textarea.recipe-edit__input {
     resize: none;
     height: 200px;
-
+    width: 100%;
 }
 
 .recipe-edit__ingredient-grid {
