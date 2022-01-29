@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+}
+
+.searchbar {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.searchbox {
+    font-size: 1rem;
+    margin-right: 10px;
+}

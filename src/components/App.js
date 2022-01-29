@@ -4,6 +4,9 @@ import '../css/app.css'
 import {v4 as uuidv4} from 'uuid'
 import RecipeEdit from './RecipeEdit';
 
+// Add search box
+
+
 export const RecipeContext = React.createContext()
 const LOCAL_STORAGE_KEY = 'cookingWithReact.recipes'
 
