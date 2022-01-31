@@ -1,4 +1,5 @@
 .recipe-list {
+    padding-top: 50px;
     border-right: 1px solid black;
     min-height: 100vh;
     width: 50%;
