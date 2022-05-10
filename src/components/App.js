@@ -66,7 +66,7 @@ function App() {
 
   return (
     <RecipeContext.Provider value={recipeContextValue}>
-      <Search recipes={recipes} setRecipes={setRecipes()}/>
+      <Search />
       <RecipeList recipes={recipes} />
       {selectedRecipe && <RecipeEdit recipe={selectedRecipe}/>}
     </RecipeContext.Provider>
