@@ -1,4 +1,4 @@
-# Cooking With React
+# Recipes With React
 
 I have always loved cooking and the majority of my TV viewing is the Food Network. When I decided to start learning React and taking my JavaScript skills to the next level, it was a natural pairing 🍷🍫.
 
